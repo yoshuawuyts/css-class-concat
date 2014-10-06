@@ -1,0 +1,30 @@
+{
+  "name": "css-class-concat",
+  "version": "1.0.0",
+  "description": "Concatenate css classes into a single string and remove all prepending class dots",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": "yoshuawuyts/css-class-concat",
+  "keywords": [
+    "css",
+    "strip",
+    "dot",
+    "concat"
+  ],
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "istanbul": "^0.3.2",
+    "make-lint": "^1.0.1",
+    "mocha": "^1.21.4",
+    "should": "^4.0.4"
+  },
+  "files": [
+    "lib",
+    "LICENSE",
+    "index.js",
+    "HISTORY.md"
+  ]
+}
